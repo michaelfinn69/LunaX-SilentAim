@@ -1,4 +1,4 @@
-# Luna X
+# Luna X Silent Aim
 # Created by Michael & Ghxst
 Silent Aim Script for Multiple Games, comming soon.
 
