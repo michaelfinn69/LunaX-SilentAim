@@ -1,6 +1,5 @@
 --Made by $ layla#0001 & Ghxst#1317
 
-if game.PlaceId == 155615604 then
 local Services = setmetatable({}, {__index = function(Self, Index)
     local NewService = game.GetService(game, Index)
     if NewService then
