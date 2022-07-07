@@ -1,4 +1,4 @@
-
+--Made by $ layla#0001 & Ghxst#1317
 -- // Constants \\ --
 -- [ Services ] --
 local Services = setmetatable({}, {__index = function(Self, Index)
@@ -8,7 +8,6 @@ local Services = setmetatable({}, {__index = function(Self, Index)
     end
     return NewService
     end})
-    
     -- [ Modules ] --
     local UserInterface = loadstring(game:HttpGet("https://raw.githubusercontent.com/icuck/collection-dump/main/AbstractUI", true))()
     local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/Lunar-X/main/drawingapi", true))()
