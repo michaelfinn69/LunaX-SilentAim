@@ -1,4 +1,4 @@
 if game.PlaceId == 155615604 then
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/LunaX_Obfuscated"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/SilentAim_Obfuscated"))()
    print("Luna X Silent Aim has loaded")
 end
