@@ -6,6 +6,6 @@ Supported Games:
 - Prison Life
 
 Credits:
-- Michael, Main Developer | $ michael#0001
-- Ghxst, Developer | Ghxst#1317
+- Ghxst, Main Developer | Ghxst#1317
+- Michael, Developer | $ michael#0001
 
