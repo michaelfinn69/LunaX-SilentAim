@@ -6,6 +6,6 @@ Supported Games:
 - Prison Life
 
 Credits:
-- Michael, Main Developer | $ layla#0001
+- Michael, Main Developer | $ michael#0001
 - Ghxst, Developer | Ghxst#1317
 
