@@ -1,4 +1,4 @@
 --[[
     Obfuscated using Prometheus Alpha v0.2 by levno-710
---]]
-local B=true local o={}local h=setmetatable({},{__newindex=function(h,x,t)if x=="Enabled"then B=not(not t)for o,h in ipairs(o)do h.Visible=B end else rawset(h,x,t)end end})function h.new(h,x)local t=Drawing.new(h)for B,o in pairs(x)do t[B]=o end t.Visible=B table.insert(o,t)return t end function h.Clear(B)for B,o in ipairs(o)do pcall(function()o:Remove()end)end o={}return o end return h
+]]
+local t=true local A={}local Z=setmetatable({},{__newindex=function(Z,T,d)if T=="Enabled"then t=not(not d)for A,Z in ipairs(A)do Z.Visible=t end else rawset(Z,T,d)end end})function Z.new(Z,T)local d=Drawing.new(Z)for t,A in pairs(T)do d[t]=A end d.Visible=t table.insert(A,d)return d end function Z.Clear(t)for t,A in ipairs(A)do pcall(function()A:Remove()end)end A={}return A end return Z
