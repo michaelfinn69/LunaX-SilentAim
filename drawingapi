@@ -1,4 +1,0 @@
---[[
-    Obfuscated using Prometheus Alpha v0.2 by levno-710
-]]
-local t=true local A={}local Z=setmetatable({},{__newindex=function(Z,T,d)if T=="Enabled"then t=not(not d)for A,Z in ipairs(A)do Z.Visible=t end else rawset(Z,T,d)end end})function Z.new(Z,T)local d=Drawing.new(Z)for t,A in pairs(T)do d[t]=A end d.Visible=t table.insert(A,d)return d end function Z.Clear(t)for t,A in ipairs(A)do pcall(function()A:Remove()end)end A={}return A end return Z
