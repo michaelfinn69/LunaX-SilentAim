@@ -1,4 +1,21 @@
 if game.PlaceId == 155615604 then
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/PrisonLife_Obfuscated"))()
-   print("Luna X Silent Aim has loaded")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/PrisonLife_Obfuscated"))()
+    print("Luna X Combat has Loaded for Prison Life")
+
+elseif game.PlaceId == 2788229376 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/DaHood_Obfuscated"))()
+    print("Luna X Combat has Loaded for Da Hood (Original Game)")
+
+elseif game.PlaceId == 5602055394 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/DaHood_Obfuscated"))()
+    print("Luna X Combat has Loaded for Da Hood Copy")
+
+elseif game.PlaceId == 9568982793 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/DaHood_Obfuscated"))()
+    print("Luna X Combat has Loaded for Da Hood Copy")
+
+elseif game.PlaceId == 9183932460 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX-SilentAim/main/DaHood_Obfuscated"))()
+    print("Luna X Combat has Loaded for Da Hood Copy")
+
 end
